@@ -63,8 +63,6 @@ public class Post implements Serializable{
 	public void setBody(String body) {
 		this.body = body;
 	}
-	
-	
 
 	public AuthorDTO getAuthor() {
 		return author;
